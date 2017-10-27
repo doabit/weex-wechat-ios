@@ -1,0 +1,6 @@
+use_frameworks!
+target 'weex-wechat_Tests' do
+  pod 'weex-wechat', :path => '../'
+  
+  
+end
