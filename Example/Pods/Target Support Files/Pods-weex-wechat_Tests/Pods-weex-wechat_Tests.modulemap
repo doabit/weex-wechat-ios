@@ -1,0 +1,6 @@
+framework module Pods_weex_wechat_Tests {
+  umbrella header "Pods-weex-wechat_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

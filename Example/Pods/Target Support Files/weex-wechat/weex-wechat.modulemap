@@ -1,0 +1,6 @@
+framework module weex_wechat {
+  umbrella header "weex-wechat-umbrella.h"
+
+  export *
+  module * { export * }
+}

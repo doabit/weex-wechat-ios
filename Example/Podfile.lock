@@ -1,0 +1,16 @@
+PODS:
+  - weex-wechat (0.1.0)
+
+DEPENDENCIES:
+  - weex-wechat (from `../`)
+
+EXTERNAL SOURCES:
+  weex-wechat:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  weex-wechat: 46454d10dfcd878d4ae2cb2157edb1fd3e784bf6
+
+PODFILE CHECKSUM: a2858f70ddb7945135e65308ed1fa4c64f66c49c
+
+COCOAPODS: 1.1.1

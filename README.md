@@ -1,6 +1,6 @@
 # weex-wechat
 
-[![CI Status](http://img.shields.io/travis/doabit/weex-wechat.svg?style=flat)](https://travis-ci.org/doabit/weex-wechat)
+[![CI Status](http://img.shields.io/travis/doabit/weex-wechat-ios.svg?style=flat)](https://travis-ci.org/doabit/weex-wechat-ios)
 [![Version](https://img.shields.io/cocoapods/v/weex-wechat.svg?style=flat)](http://cocoapods.org/pods/weex-wechat)
 [![License](https://img.shields.io/cocoapods/l/weex-wechat.svg?style=flat)](http://cocoapods.org/pods/weex-wechat)
 [![Platform](https://img.shields.io/cocoapods/p/weex-wechat.svg?style=flat)](http://cocoapods.org/pods/weex-wechat)
