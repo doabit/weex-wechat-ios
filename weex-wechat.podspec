@@ -32,6 +32,8 @@ Pod::Spec.new do |s|
 
   s.source_files = 'weex-wechat/Classes/**/*'
   s.dependency 'WechatOpenSDK'
+  s.dependency 'WeexSDK'
+
 
   # s.resource_bundles = {
   #   'weex-wechat' => ['weex-wechat/Assets/*.png']
